@@ -3,7 +3,7 @@
 ###웹사이트 레이아웃 8가지 연습
 
 
-
+```
 .contents .text_box a {
     width: 160px;
     height: 40px;
@@ -14,3 +14,4 @@
     line-height: 40px;
     display: block;
 }
+```
